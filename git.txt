@@ -5,3 +5,5 @@ Deseame buena suerte.
 Bendiciones.
 
 Cambios en el archivo. Ahora dame de tu fruta
+
+Caso 1 de fusion (merge)
